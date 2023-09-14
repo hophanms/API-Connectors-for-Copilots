@@ -1,1 +1,1 @@
-# API-Connectors-for-Copilots
+# API Connectors for Copilots
